@@ -1,0 +1,62 @@
+<svg viewBox="0 0 364 309">
+  <g id="Group_16477" data-name="Group 16477" transform="translate(-8451 19212)">
+    <g id="Rectangle" transform="translate(8451 -19212)" fill="none" stroke="#dfdede" stroke-miterlimit="10" stroke-width="1">
+      <rect width="364" height="309" rx="12" stroke="none"/>
+      <rect x="0.5" y="0.5" width="363" height="308" rx="11.5" fill="none"/>
+    </g>
+    <g id="Group_16476" data-name="Group 16476" transform="translate(1)">
+      <g id="Month" transform="translate(8545.973 -19191.637)">
+        <path id="Icon" d="M4.6,9.205,0,4.6,4.6,0" transform="translate(0.027 5.136)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+        <text id="February" transform="translate(86.527 14.637)" fill="#1e2022" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.063em"><tspan x="-35.102" y="0">February</tspan></text>
+        <path id="Icon-2" data-name="Icon" d="M0,9.205,4.6,4.6,0,0" transform="translate(169.027 5.136)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      </g>
+      <text id="Mo" transform="translate(8468 -19137)" fill="#1e2022" font-size="12" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="0.071em"><tspan x="0" y="0">Mo</tspan></text>
+      <text id="Tu" transform="translate(8531 -19137)" fill="#1e2022" font-size="12" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="0.071em"><tspan x="-7.707" y="0">Tu</tspan></text>
+      <text id="Sa" transform="translate(8737 -19137)" fill="#1e2022" font-size="12" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="0.071em"><tspan x="-8.121" y="0">Sa</tspan></text>
+      <text id="Su" transform="translate(8796 -19137)" fill="#1e2022" font-size="12" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="0.071em"><tspan x="-15.893" y="0">Su</tspan></text>
+      <text id="_1" data-name="1" transform="translate(8531 -19089)" fill="#dfdede" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-1.92" y="0">1</tspan></text>
+      <text id="_5" data-name="5" transform="translate(8737 -19090)" fill="#dfdede" font-size="11" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-3.454" y="0">5</tspan></text>
+      <text id="_6" data-name="6" transform="translate(8788 -19090)" fill="#dfdede" font-size="11" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-3.493" y="0">6</tspan></text>
+      <text id="_8" data-name="8" transform="translate(8531 -19047)" fill="#dfdede" font-size="11" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-3.47" y="0">8</tspan></text>
+      <text id="_12" data-name="12" transform="translate(8737 -19047)" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-5.799" y="0">12</tspan></text>
+      <text id="_13" data-name="13" transform="translate(8788 -19047)" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-5.883" y="0">13</tspan></text>
+      <text id="_15" data-name="15" transform="translate(8531 -19004)" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-6.117" y="0">15</tspan></text>
+      <rect id="Rectangle-2" data-name="Rectangle" width="33" height="33" rx="10" transform="translate(8720 -19025)" fill="#e23744"/>
+      <text id="_19" data-name="19" transform="translate(8737 -19004)" fill="#fff" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-6.129" y="0">19</tspan></text>
+      <text id="_20" data-name="20" transform="translate(8788 -19004)" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-7.647" y="0">20</tspan></text>
+      <rect id="Rectangle-3" data-name="Rectangle" width="87" height="33" rx="10" transform="translate(8515 -18983)" fill="#e23744"/>
+      <text id="_22" data-name="22" transform="translate(8531 -18962)" fill="#fff" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-7.329" y="0">22</tspan></text>
+      <g id="Group_16474" data-name="Group 16474">
+        <text id="Th" transform="translate(8637 -19137)" fill="#1e2022" font-size="12" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="0.071em"><tspan x="-7.707" y="0">Th</tspan></text>
+        <text id="_3" data-name="3" transform="translate(8637 -19090)" fill="#dfdede" font-size="11" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-3.24" y="0">3</tspan></text>
+        <text id="_10" data-name="10" transform="translate(8637 -19047)" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-6.117" y="0">10</tspan></text>
+        <text id="_17" data-name="17" transform="translate(8637 -19004)" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-5.625" y="0">17</tspan></text>
+        <text id="_24" data-name="24" transform="translate(8637 -18962)" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-7.653" y="0">24</tspan></text>
+      </g>
+      <g id="Group_16475" data-name="Group 16475">
+        <text id="Fr" transform="translate(8687 -19137)" fill="#1e2022" font-size="12" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="0.071em"><tspan x="-5.823" y="0">Fr</tspan></text>
+        <text id="_4" data-name="4" transform="translate(8687 -19090)" fill="#dfdede" font-size="11" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-3.46" y="0">4</tspan></text>
+        <text id="_11" data-name="11" transform="translate(8687 -19047)" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-4.269" y="0">11</tspan></text>
+        <text id="_18" data-name="18" transform="translate(8687 -19004)" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-6.135" y="0">18</tspan></text>
+        <text id="_25" data-name="25" transform="translate(8687 -18962)" fill="#dfdede" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-7.647" y="0">25</tspan></text>
+      </g>
+      <text id="_26" data-name="26" transform="translate(8737 -18962)" fill="#dfdede" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-7.689" y="0">26</tspan></text>
+      <text id="_27" data-name="27" transform="translate(8788 -18962)" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-7.155" y="0">27</tspan></text>
+      <g id="Group_16472" data-name="Group 16472">
+        <text id="_7" data-name="7" transform="translate(8479 -19047)" fill="#dfdede" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-3.276" y="0">7</tspan></text>
+        <text id="_14" data-name="14" transform="translate(8479 -19004)" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-6.123" y="0">14</tspan></text>
+        <text id="_21" data-name="21" transform="translate(8479 -18962)" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-5.799" y="0">21</tspan></text>
+        <text id="_28" data-name="28" transform="translate(8479 -18920)" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-7.665" y="0">28</tspan></text>
+      </g>
+      <text id="_29" data-name="29" transform="translate(8531 -18920)" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-7.659" y="0">29</tspan></text>
+      <g id="Group_16473" data-name="Group 16473">
+        <text id="We" transform="translate(8584 -19137)" fill="#1e2022" font-size="12" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="0.071em"><tspan x="-10.125" y="0">We</tspan></text>
+        <text id="_2" data-name="2" transform="translate(8584 -19089)" fill="#dfdede" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-3.45" y="0">2</tspan></text>
+        <text id="_9" data-name="9" transform="translate(8584 -19047)" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-3.78" y="0">9</tspan></text>
+        <text id="_16" data-name="16" transform="translate(8584 -19004)" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-6.159" y="0">16</tspan></text>
+        <text id="_23" data-name="23" transform="translate(8584 -18962)" fill="#fff" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-7.413" y="0">23</tspan></text>
+        <text id="_30" data-name="30" transform="translate(8584 -18920)" fill="#dfdede" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.071em"><tspan x="-7.731" y="0">30</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,65 @@
+[
+    {
+        "id": "60ed4304e0f0e152aa163c98",
+        "data": [
+            {
+                "id": "61ca7f251937cd579f023aad",
+                "cookingInfo": [
+                    {
+                        "timeInMinutes": "300",
+                        "person": 1
+                    },
+                    {
+                        "timeInMinutes": "300",
+                        "person": 2
+                    },
+                    {
+                        "timeInMinutes": "300",
+                        "person": 3
+                    },
+                    {
+                        "timeInMinutes": "300",
+                        "person": 4
+                    },
+                    {
+                        "timeInMinutes": "360",
+                        "person": 5
+                    },
+                    {
+                        "timeInMinutes": "360",
+                        "person": 6
+                    },
+                    {
+                        "timeInMinutes": "360",
+                        "person": 7
+                    },
+                    {
+                        "timeInMinutes": "360",
+                        "person": 8
+                    },
+                    {
+                        "timeInMinutes": "420",
+                        "person": 9
+                    },
+                    {
+                        "timeInMinutes": "420",
+                        "person": 10
+                    }
+                ],
+                "price": {
+                    "hourly_cooking_charges": "3",
+                    "platform_fee": "0",
+                    "tax_rate": "0",
+                    "consumer_max_guest": "10"
+                },
+                "name": "Pakage of 3 BBQ",
+                "description": "I will BBQ 3 amercian style meals for yor",
+                "image": "/assets/images/chefs/james.jpg",
+                "images": [
+                    "1640660699511.jpg"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

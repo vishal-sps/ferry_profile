@@ -1,0 +1,97 @@
+.media{
+    display: flex;
+
+    justify-content: space-between;
+    margin-top: 1.5em;
+    
+}
+
+@media (max-width: 541px) {
+    .media{
+        display: block ;
+    }     
+};
+
+.modal{
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modalcontent{
+    width: 400px;
+    height: 18rem;
+    padding: 0.6rem;
+    background-color: #fff;
+    border-radius: 15px;
+}
+
+.modalheader{
+    display: flex;
+    justify-content: space-between;
+}
+
+.modalheader h4 {
+    padding: 10px;
+    font-size: large;
+    font-weight: 600;
+}
+.modalfooter{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.modaltitle{
+    margin: 0;
+}
+.modalbody{
+    padding: 10px;
+    height: 70%;
+    display: flex;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+}
+
+.modalBodyLeft li{
+    font-size: 0.6rem;
+    padding: 10px;
+    background-color: #f4f4f4;
+}
+.modalBodyLeft li:hover{
+    cursor: pointer;
+    background-color: white;
+}
+.modalBodyRight{
+    padding: 0px 0px 0px 25px;
+}
+.modalBodyRight li{
+    font-size: 0.7rem;
+    padding: 9px;
+}
+.btnClear{
+    border: rgba(0,0,0,0.3) solid 1.4px;
+    font-size: 0.6rem;
+    padding: 5px 15px 5px 15px;
+    border-radius: 5px;
+}
+.btnClear:hover{
+    background-color: #f6f6f6;
+}
+.btnApply{
+    background-color: black;
+    font-size: 0.6rem;
+    color: white;
+    padding: 5px 15px 5px 15px ;
+    border-radius: 5px;
+}
+.btnApply:hover{
+    border-radius: 5px;
+    background-color: rgba(0,0,0,0.8);
+}
